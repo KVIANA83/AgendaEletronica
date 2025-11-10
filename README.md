@@ -6,12 +6,6 @@
 **Disciplina:** Programação II  
 **Carga Horária:** 90h  
 **Professor:** Augusto César Ferreira de Miranda Oliveira   
-**Alunos:** 
- - José Paulo Cauás Tenório 
- - Juliana Dias da Silva 
- - Karina Viana Caldas da Silva 
- - Petrus Oliveira de Andrade Cruz 
- - Thiago Nicolas Ananias da Silva
 
 ---
 
@@ -35,11 +29,11 @@ A aplicação permite:
 ---
 
 ## 👩‍💻 Integrantes da Equipe
-- [Nome completo do integrante 1]  
-- [Nome completo do integrante 2]  
-- [Nome completo do integrante 3]  
-- [Nome completo do integrante 4] *(opcional)*  
-- [Nome completo do integrante 5] *(opcional)*  
+ - José Paulo Cauás Tenório 
+ - Juliana Dias da Silva 
+ - Karina Viana Caldas da Silva 
+ - Petrus Oliveira de Andrade Cruz 
+ - Thiago Nicolas Ananias da Silva
 
 > ⚠️ Todos os nomes dos integrantes devem constar também nos arquivos-fonte como comentários.
 
