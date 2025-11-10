@@ -50,3 +50,16 @@ A aplicação permite:
 ---
 
 ## 🧱 Estrutura do Projeto
+
+agenda-eletronica/
+├── README.md
+├── contatos.csv # Arquivo CSV de exemplo (opcional)
+└── src/
+└── webquest3/
+└── agenda/
+├── AgendaApplication.java
+├── AgendaManager.java
+├── Contato.java
+├── ContatoExistenteException.java
+├── ContatoNaoEncontradoException.java
+└── GerenciadorContatos.java
