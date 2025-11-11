@@ -53,20 +53,20 @@ A aplicação permite:
 
 AgendaEletronica/
 │
-├── src/
-│   ├── model/
-│   │   └── Contato.java
-│   │
-│   ├── service/
-│   │   ├── GerenciadorContatos.java
-│   │   └── AgendaManager.java
-│   │
-│   ├── exception/
-│   │   ├── ContatoExistenteException.java
-│   │   └── ContatoNaoEncontradoException.java
-│   │
-│   └── app/
-│       └── AgendaApplication.java
-│
+├── src/ 
+│   ├── model/ 
+│   │   └── Contato.java 
+│   │ 
+│   ├── service/ 
+│   │   ├── GerenciadorContatos.java 
+│   │   └── AgendaManager.java 
+│   │ 
+│   ├── exception/ 
+│   │   ├── ContatoExistenteException.java 
+│   │   └── ContatoNaoEncontradoException.java 
+│   │ 
+│   └── app/ 
+│       └── AgendaApplication.java 
+│ 
 └── contatos.csv
 
